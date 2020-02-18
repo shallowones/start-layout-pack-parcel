@@ -1,0 +1,9 @@
+{
+  "plugins": [
+    "stylelint-declaration-use-variable"
+  ],
+  "rules": {
+    "unit-blacklist": ["rem", "em"],
+    "sh-waqar/declaration-use-variable": "color"
+  }
+}
